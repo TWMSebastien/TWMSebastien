@@ -2,7 +2,7 @@
 - 👀 I’m interested in PYTHON and PowerBI
 - 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on : let me improve my knowledge before !!  ;-)
-- 📫 How to reach me : Setfere69210@gmail.com
+- 📫 How to reach me : profene@hotmail.com
 
 <!---
 TWMSebastien/TWMSebastien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
